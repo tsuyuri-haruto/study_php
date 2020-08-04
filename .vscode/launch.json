@@ -21,7 +21,7 @@
             "port": 9000,
             "runtimeExecutable": "C:\\php-7.4.8\\php.exe",
             "pathMappings": {
-                "C:\\Users\\digskill\\Desktop\\php-workspace\\docker\\html\\HelloWorld": "${workspaceRoot}"
+                "C:\\Users\\digskill\\Desktop\\php-workspace\\study_php\\HelloWorld": "${workspaceRoot}"
             }
         }
     ]
